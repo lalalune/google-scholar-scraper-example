@@ -1,0 +1,2 @@
+apify_client
+python-dotenv
